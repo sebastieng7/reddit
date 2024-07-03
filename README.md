@@ -5,6 +5,11 @@ A collection of reddit bots and utilities by /u/GoldenSights. I no longer write 
 
 ---
 
+## Requirements
+
+* Python3
+* Python modules: `requirements.txt`
+
 ## Before running any bots
 
 **Use descriptive useragents**. Include a username by which admins can identify you. Tell what your bot is doing and why. Convince the admins that you aren't wasting their bandwidth. Inadequate useragents may cause your bot to get logged out in the middle of your session, and the program will crash. Abusive useragents can get your bot shadowbanned.
